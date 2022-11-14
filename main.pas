@@ -1,2 +1,0 @@
-readln();
-writeln();
